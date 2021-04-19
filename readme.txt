@@ -5,4 +5,4 @@ Git tracks changes.
 456
 Creating a new branch is quick ya.
 hello world
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
